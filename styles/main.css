@@ -322,7 +322,7 @@ body {
   color: var(--white);
   background-color: var(--cyan-300);
   text-align: center;
-  background-image: url("assets/mobile/image-footer.jpg");
+  background-image: url("../assets/mobile/image-footer.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -348,7 +348,7 @@ body {
   }
 
   .footer-cta__content {
-    background-image: url(assets/tablet/image-footer.jpg);
+    background-image: url(../assets/tablet/image-footer.jpg);
     flex-direction: unset;
     gap: var(--spacing-400);
     align-items: start;
@@ -413,7 +413,7 @@ body {
 
   .footer-cta__content {
     min-width: 100%;
-    background-image: url(assets/desktop/image-footer.jpg);
+    background-image: url(../assets/desktop/image-footer.jpg);
     text-align: unset;
     justify-content: space-between;
   }
