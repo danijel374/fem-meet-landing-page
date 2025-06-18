@@ -374,10 +374,7 @@ body {
 
     & picture {
       align-self: center;
-      width: 394px;
-      height: 303px;
-      width: calc(139%);
-      height: auto;
+      width: 139%;
       position: relative;
       margin-block-end: var(--spacing-600);
     }
