@@ -26,7 +26,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### 🔗 Links
 
-- 💡 Solution URL: [My solution for Meet landing page challenge]()
+- 💡 Solution URL: [My solution for Meet landing page challenge](https://www.frontendmentor.io/solutions/responsive-meet-landing-page-pWdDZ3oPpU)
 - 🌐 Live Site URL: [Meet landing page live](https://danijel374.github.io/fem-meet-landing-page/)
 
 ---
